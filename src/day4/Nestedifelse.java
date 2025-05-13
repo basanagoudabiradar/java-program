@@ -6,7 +6,7 @@ public class Nestedifelse
 	public static void main(String[] args) 
 	{
 	
-		if(true)
+		if(false)
 		{
 			if(true)
 			{

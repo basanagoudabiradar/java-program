@@ -7,7 +7,7 @@ public class SchoolMain
 	{
 		School sch=new School();
 		sch.syear=2010;
-		sch.sname="jss";
+		sch.sname="sbhs";
 		sch.sgrade='a';
 		sch.printData();
 	}

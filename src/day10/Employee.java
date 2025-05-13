@@ -9,7 +9,8 @@ public class Employee
   //methods
    void  display()
   {
-  System.out.println(+eid+" "+ename+"  "+job+" "+esalary+" ");
+	   
+      System.out.println(+eid+" "+ename+"  "+job+" "+esalary+" ");
 
   }
 	

@@ -11,7 +11,7 @@ public class MethodMain
 		String s= mtd.m1();
 		System.out.println(s);
 		
-		
+		//mtd.m1();
 		mtd.m2(s);
 	}
 

@@ -11,7 +11,7 @@ public class Finallyblock
 		
 		try
 		{
-		System.out.println(a<b);
+		System.out.println(a==b);
 		}
 		catch(Exception e)
 		{

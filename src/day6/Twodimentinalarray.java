@@ -23,7 +23,7 @@ public class Twodimentinalarray
        System.out.println("number of rows:"+a.length);
        System.out.println("number of columns:"+a[0].length);
        
-       //read single value from arry
+       //read single value from array
        System.out.println(a[2][0]);
        System.out.println(a[0][1]);
        
@@ -43,7 +43,7 @@ public class Twodimentinalarray
     	      
       
        //enhanced for loop
-       for( int arr[]:a)
+   /*    for( int arr[]:a)
       {
     	  for( int x:arr)
     	  {
@@ -52,7 +52,7 @@ public class Twodimentinalarray
     	  System.out.println();
     	  
       }
-       
+      */ 
 	}
 	
 }

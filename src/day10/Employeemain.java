@@ -15,11 +15,17 @@ public class Employeemain
         emp1.display();
 		
         Employee emp2=new Employee();
-        emp2.eid=102;
+        emp2.eid=102;  
         emp2.ename="virat";
         emp2.job="QA-engineer";
         emp2.esalary=60000;
         emp2.display();
-	}
+        
+        Employee emp3=new Employee();
+        emp3.eid=103;
+        emp3.ename="rohit";
+        emp3.esalary=70000;
+        emp3.display();
+        }
 
 }

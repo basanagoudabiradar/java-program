@@ -5,7 +5,7 @@ public class PositiveorNegativeNum {
 	public static void main(String[] args)
 	{
 	
-		double num=-0.1;
+		double num=0.001;
 		
 		if (num>0)
 		{

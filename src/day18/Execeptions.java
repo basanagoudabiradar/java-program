@@ -14,12 +14,11 @@ public class Execeptions {
 		
 		System.out.println("programe is completed"); 
 		
-		System.out.println("programe is exited");
-		
-		/*
+		System.out.println("programe is exit");
+			/*
 
 		int arry[]=new int[5];
-		System.out.println("enter teh position");
+		System.out.println("enter the position");
 		int pos= sc.nextInt();
 		System.out.println("enter the value");
 		int val=sc.nextInt();
@@ -28,11 +27,11 @@ public class Execeptions {
 		*/  
 		
 		//String to integer
-	/*	
+		
 		String s="1100";
-		int num =Integer.parseInt(s);
-		System.out.println (num);
-	*/	
+		int num1 =Integer.parseInt(s);
+		System.out.println (num1);
+	
 	/*	String s="welcome";
 		System.out.println(s.length());
 		System.out.println("programe completed");

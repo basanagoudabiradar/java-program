@@ -17,9 +17,10 @@ public class Construcationtypes
 
     public static void main(String[] args)
     {
-    	//Construcationtypes cst=new Construcationtypes();
-    	Construcationtypes cst =new Construcationtypes(55,45);
+    	
+    	Construcationtypes cst =new Construcationtypes(10,12);
     	cst.sum();
+    	
     }
     
 }

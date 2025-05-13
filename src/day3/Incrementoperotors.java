@@ -6,26 +6,26 @@ public class Incrementoperotors {
 	
 		// //increment and decrement operators-----  ++ --
 	{
-		/*case1
+		//case1
           int a=10;
           System.out.println(a);
           
-          a++;
+              a++;
           System.out.println(a);
-          */
+          
 		//case2  // post increment
-		/*
-		int a=10;
-		int res=a++;
-		System.out.println(res);
-		System.out.println(a);  
-		*/
+		
+		int c=10;
+		int res2=c++;
+		System.out.println(res2);
+		System.out.println(c);  
+		
 		
 		//case3     //pre increment
-		int a=10;
-		int res=++a;
-		System.out.println(res);
-		System.out.println(a);  
+		int b=10;
+		int res1=++b;
+		System.out.println(res1);
+		System.out.println(b);  
 		
 		
 	}

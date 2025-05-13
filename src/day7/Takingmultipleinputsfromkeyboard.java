@@ -25,6 +25,9 @@ public class Takingmultipleinputsfromkeyboard {
 		System.out.println("enter your city");
 		String city=sc.next();
 		System.out.println("your city is :"+city);
+		System.out.println("enter your village");
+		String vlg=sc.next();
+		System.out.println("your village is:"+vlg);
 	}
 
 }

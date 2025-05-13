@@ -12,7 +12,7 @@ public class ReverseAstring
 		
 		for(int i=6;i>=0;i--)    //i=6 also possible
 		{
-			System.out.println(s.charAt(i));
+			System.out.print(s.charAt(i));
 		}
 		
 		//aproch2
@@ -23,12 +23,12 @@ public class ReverseAstring
 			rev=rev+a[i];
 		}
 		System.out.println(rev);
-		
-		//aproch3 ---By StringBuffer Method
-		/*
-		StringBuffer s=new StringBuffer("welcome");
-		System.out.println(s.reverse());
 		*/
+		//aproch3 ---By StringBuffer Method
+		
+		StringBuffer s1=new StringBuffer("welcome");
+		System.out.println(s1.reverse());
+		
 		
 		//aproch4-----By StringBuidler
 		/*

@@ -7,10 +7,12 @@ public class Countnumberofdigitsinnumber {
 		
 		int count = 0, num = 3452456;
 
-	    while (num != 0) 
+	    while (num > 0) 
 	    {
-	      num /= 10;
-	      ++count;
+	    	num=num/10;
+	    	count++;
+	    
+	     
 	    }
 
 	    System.out.println("Number of digits: " + count);

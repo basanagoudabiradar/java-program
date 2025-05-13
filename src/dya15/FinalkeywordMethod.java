@@ -13,9 +13,9 @@ package dya15;
 	}
 }
 
-class clss extends cls  //can not over ride class method
+class clss extends cls  
 {
-	void m1(int a)  //can not over ride final method
+	void m1(int a)  //can not over ride class method
 	{
 		System.out.println("");
 	}

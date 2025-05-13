@@ -18,10 +18,10 @@ public class Typecastingobject3
 		
 		//exmp3
 		
-	/*	String s= new String("welcome");
-		StringBuffer sb=(StringBuffer) s;     */  //rulesofCastException  rule1-->passed rule2-->failed
+	/*	String ss= new String("welcome");
+		StringBuffer sb=(StringBuffer) ss;       //rulesofCastException  rule1-->passed rule2-->failed
 		
-		
+		*/
 	} 
 
 }

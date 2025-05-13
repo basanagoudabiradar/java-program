@@ -8,7 +8,7 @@ public class Method
 		System.out.println("hello");
 	}
 	
-	String m1() //with parameter
+	String m1() //no parameter
 	{
 		return("world");
 	}

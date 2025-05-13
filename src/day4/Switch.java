@@ -6,7 +6,7 @@ public class Switch
 	public static void main(String[] args)
 	{
 	  //reading the day in a week
-		int weekno=10;
+		int weekno=5;
 		
 		switch(weekno)
 		{

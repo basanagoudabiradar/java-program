@@ -48,15 +48,15 @@ public class Stringmethod {
 	*/	
 		//Contains()    method
 	/*	
-		String s3="shayeengouda";
-		String s4="shayeen";
-		String s5="patu";
+		String s3="Basanagouda";
+		String s4="Basana";
+		String s5="biradar";
 		
 		System.out.println(s3.contains(s4));
 		
-		System.out.println(s3.contains("shayeen"));
+		System.out.println(s3.contains("Basana"));
 		System.out.println(s3.contains(s5));
-		System.out.println(s3.contains("SHayeen"));
+		System.out.println(s3.contains("BAsana"));
 		
 	*/	//equals and equal ignore case
 	/*	

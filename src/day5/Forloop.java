@@ -12,24 +12,24 @@ public class Forloop
 			System.out.println(i);
 		} */
 		
-		//example2 ------print even numbers from 1 to 10
-	/*	
+	/*	//example2 ------print even numbers from 1 to 10
+		
 		for( int i=2;i<=10;i+=2 )
 		{
-			System.out.println(i+"even num");
-		}  */
- 
+			System.out.println("even num::"+i);
+		}  
+ */
 		//exmp3---print 1 to 10 num with even and odd 
 		
 	 	for(int i=1;i<=10;i++)
 		
 			if(i%2==0)
 		{
-			System.out.println(i+"even num");
+			System.out.println("even num"+i);
 		}
 		else
 		{
-			System.out.println(i+"odd num");
+			System.out.println("odd num"+i);
 		} 
 		
 		

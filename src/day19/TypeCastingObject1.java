@@ -24,6 +24,7 @@ public class TypeCastingObject1 {
 		child c=new child();
 		System.out.println(c.s);
 		c.m1();
+		
         System.out.println(c.a);
         c.m2();   
 	

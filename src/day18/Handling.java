@@ -6,19 +6,8 @@ public class Handling {
 
 	public static void main(String[] args) 
 	{
-	/*	System.out.println("programe started");
-		Scanner sc=new Scanner(System.in);
-		System.out.println("enter the num ");
-		int num=sc.nextInt();
-		try
-		{
-		System.out.println(100/num);
-		}
-		catch(Exception e)
-		{
-			System.out.println("invalid data");
-		}  */
-		
+	
+	/*	
 	    String s="1234";
 	   
 	    try
@@ -33,6 +22,16 @@ public class Handling {
 		System.out.println("programe completed");
 		System.out.println("programe exited");
 
+		*/
+	
+		String s="savi";
+		try {
+	     int num=Integer.parseInt(s);
+		}
+		catch( NumberFormatException e)
+		{
+			System.out.println("invalid type");
+		}
 	}
 
 }

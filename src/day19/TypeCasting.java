@@ -8,17 +8,18 @@ public class TypeCasting {
 		//Upcastting----->Smaller Value to LongerValue
 		
 		//exmp1
-		
-	/*	int intvalue =100;
+		/*
+		int intvalue =100;
 		long longvalue =intvalue;
-		System.out.println(longvalue); */
-		
+		System.out.println(longvalue); 
+		*/
 		//exmp2
 		
 		
-	/*	float floatvalue=10.5f;
+		float floatvalue=10.5f;
 		double doblevalue=floatvalue;
-		System.out.println(floatvalue); */
+		System.out.println(doblevalue); 
+		
 		
 		//DownCasting------>longer value to Smaller value
 		//exmp3
@@ -42,10 +43,11 @@ public class TypeCasting {
 		
 		
 		//exmp6
-		
+		/*
 		double d=10.5;
 		int i=(int)d;
 		System.out.println(i);
+		*/
 	}
 
 }

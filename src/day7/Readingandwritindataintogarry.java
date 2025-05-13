@@ -20,6 +20,7 @@ public class Readingandwritindataintogarry
 	
 		System.out.println("printing array elements ");
 		System.out.println(Arrays.toString(a));
+		
 	}
 
 }

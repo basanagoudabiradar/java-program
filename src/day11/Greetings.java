@@ -19,8 +19,8 @@ public class Greetings
 	{
       return ("hello how are you");
 	}
-	/*
-	void m3 (String name) //no parameter
+	
+	void m3 (String name) // parameter
 	{
 		System.out.println("hello :"+name);
 	}
@@ -28,11 +28,11 @@ public class Greetings
 	String m4(String name)   //parameter
 	{
 		return ("my name is "+name);
-		*/
+		
 	}
 
 
-	
+}
 	
 	
 	

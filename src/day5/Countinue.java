@@ -8,7 +8,7 @@ public class Countinue
 		for(int i=1;i<=10;i++)
 		{
 			
-		     if(i==5 || i==6 || i==9)
+		     if(i==5 || i==6 ||i==9)
 
 			{
 				continue;
